@@ -65,3 +65,8 @@ export default function Weather() {
     );
   }
 }
+
+<footer>
+  Openly sourced by: Khalia Santos-Johnson
+ <a href= 'https://codesandbox.io/p/github/khaliasjohnson25/howyouReactEngine/main?create=true&file=%2FREADME.md'></a>
+</footer>
